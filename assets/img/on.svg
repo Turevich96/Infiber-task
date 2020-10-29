@@ -1,1 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="11" height="10"><path data-name="Фигура 542" d="M0 5l4 5 7-10H9L4 8 2 5H0z" fill="#ffbf27" fill-rule="evenodd"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="11" height="10" viewBox="0 0 11 10">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ffbf27;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="Фигура_542" data-name="Фигура 542" class="cls-1" d="M587,2316l4,5,7-10h-2l-5,8-2-3h-2Z" transform="translate(-587 -2311)"/>
+</svg>
